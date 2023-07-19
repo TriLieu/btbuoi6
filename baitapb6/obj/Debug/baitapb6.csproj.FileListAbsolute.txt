@@ -1,0 +1,11 @@
+D:\học tập\baitapb6\baitapb6\bin\Debug\baitapb6.exe.config
+D:\học tập\baitapb6\baitapb6\bin\Debug\baitapb6.exe
+D:\học tập\baitapb6\baitapb6\bin\Debug\baitapb6.pdb
+D:\học tập\baitapb6\baitapb6\obj\Debug\baitapb6.csproj.AssemblyReference.cache
+D:\học tập\baitapb6\baitapb6\obj\Debug\baitapb6.csproj.SuggestedBindingRedirects.cache
+D:\học tập\baitapb6\baitapb6\obj\Debug\baitapb6.Form1.resources
+D:\học tập\baitapb6\baitapb6\obj\Debug\baitapb6.Properties.Resources.resources
+D:\học tập\baitapb6\baitapb6\obj\Debug\baitapb6.csproj.GenerateResource.cache
+D:\học tập\baitapb6\baitapb6\obj\Debug\baitapb6.csproj.CoreCompileInputs.cache
+D:\học tập\baitapb6\baitapb6\obj\Debug\baitapb6.exe
+D:\học tập\baitapb6\baitapb6\obj\Debug\baitapb6.pdb
